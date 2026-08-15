@@ -1,0 +1,4 @@
+{
+  "extraPaths": ["cricklm"],
+  "pythonVersion": "3.13"
+}
