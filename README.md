@@ -227,5 +227,5 @@ npm run dev
 
 ## Author
 
-Built by **A Rohan**
+Built by **Vinesh Shanmugam**
 AI Engineer, ML Enthusiast, Full Stack Developer
