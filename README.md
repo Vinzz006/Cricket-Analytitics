@@ -4,7 +4,7 @@ CrickIQ is a computer vision and language model system that analyzes batting and
 
 Most technique-analysis tools either stop at raw pose data with no interpretation, or hand an image to a general-purpose model with no biomechanical grounding. CrickIQ was built to avoid both: the numeric pose features are computed deterministically, and the interpretation layer is a model trained from scratch for exactly this domain rather than a general vision-language model repurposed for it.
 
----
+--- 
 
 ## Table of Contents
 
